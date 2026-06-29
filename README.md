@@ -14,5 +14,5 @@ docker buildx build --platform linux/amd64,linux/arm64 -t tinpotnick/cadvisor:1.
 Latest versions on [GitHub](https://github.com/google/cadvisor/releases)
 
 ```bash
-Cadvisor v0.55.1
+Cadvisor v0.56.2
 ```
